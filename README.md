@@ -6,6 +6,8 @@ This repository includes the following resources:
   [Documentation](23_dokumentation_fblocks.pdf) | [Repository](https://github.com/lwolf98/cc-project)
 - **Bachelor's Thesis:** Parts of the presentation from Maximilian Giesa's and my Bachelor theses about the Photon Mapping and the Manylight Ray Tracing Algorithms (2023)
 
+  Contact me if you would like to have a look into the thesis or the source code.
+
   [Presentation](23_manylight_photon_mapping_part.pdf) | [Render Demonstration](https://www.youtube.com/watch?v=ZYKB1ATWkEk)
 - **Research Subdivision Surfaces:** Short paper about subdivision surfaces from Scientific Seminar course (2024)
   
@@ -20,5 +22,7 @@ This repository includes the following resources:
   
   [Presentation](25_subds_gridlayout.pdf)
 - **Master's Thesis:** Ray Tracing of Compressed Subdivision Surfaces with Displacement on the GPU using OptiX (2026)
+
+  Contact me if you would like to have a look into the thesis or the source code.
   
   [Presentation](26_subds_compression.pdf)
