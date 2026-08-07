@@ -9,16 +9,16 @@ This repository includes the following resources:
   Contact me if you would like to have a look into the thesis or the source code.
 
   [Presentation](23_manylight_photon_mapping_part.pdf) | [Render Demonstration](https://www.youtube.com/watch?v=ZYKB1ATWkEk)
-- **Research Subdivision Surfaces:** Short paper about subdivision surfaces from Scientific Seminar course (2024)
+- **Research Subdivision Surfaces (Overview):** Short paper about subdivision surfaces from Scientific Seminar course (2024)
   
   [Paper](24_paper_subdivision_surfaces.pdf)
-- **Research Subdivision Surfaces:** Presentation of subdivision surface methods (2024)
+- **Research Subdivision Surfaces (Basic Implementation):** Presentation of subdivision surface methods (2024)
   
   [Presentation](24_subds_presentation.pdf) | [Repository](https://github.com/lwolf98/subd-pipeline)
 - **IT-Security:** Visualization of highly dimensional data from network traffic and DoS attacks (2025)
   
   [Paper](25_itsn_visualization.pdf)
-- **Research Subdivision Surfaces:** GPU-Accelerated Ray Tracing of Catmull-Clark Subdivision Surfaces with OptiX using a Grid-Layout (2025)
+- **Research Subdivision Surfaces (Optimization):** GPU-Accelerated Ray Tracing of Catmull-Clark Subdivision Surfaces with OptiX using a Grid-Layout (2025)
   
   [Presentation](25_subds_gridlayout.pdf)
 - **Master's Thesis:** Ray Tracing of Compressed Subdivision Surfaces with Displacement on the GPU using OptiX (2026)
