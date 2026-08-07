@@ -26,3 +26,7 @@ This repository includes the following resources:
   Contact me if you would like to have a look into the thesis or the source code.
   
   [Presentation](26_subds_compression.pdf)
+
+- **DOOM: PBR Material Remaster with GPT:** Creating high-resolution textures and materials from the original DOOM from 1993 ready for Physically Based Rendering (PBR) supported by ChatGPT (2026)
+  
+  [Findings](26_pbr_research/pbr_doom.md) | [Preview](26_pbr_research/preview.md)
