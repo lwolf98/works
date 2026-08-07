@@ -1,22 +1,13 @@
 # Takeaway from PBR Material Transform with GPT
 
-In a research project at OTH Regensburg, the textures and materials of the
-computer game DOOM from 1993 were remastered for Physically Based Rendering (PBR)
-utilizing ChatGPT.
+In a research project at OTH Regensburg, the textures and materials of the computer game DOOM from 1993 were remastered for Physically Based Rendering (PBR) utilizing ChatGPT.
 The 3D models of DOOM's scenes and materials were edited and rendered in Blender.
 
-## Folder and file structure
-- copy.txt: useful copy strings and prompts
-- render_[...].png: example renderings from Blender
-- rtgi_example: example rendering from rtgi
-- doom_pbr: example script for rtgi
-- DOOM-I-without-light-levels
-	- presentation.blend: PBR ready room in E2M5 scene
-	- material.blend: material tests
-	- preview.blend: testing inside the scene
-	- maps/3D/E2M5.obj: the reference level
-	- maps/3D/E2M5.mtl: the updated material
-	- maps/3D/E2M5_Light.obj: an area light for testing rtgi
+| Before (Original) | After (PBR) |
+| :---: | :---: |
+| ![](comparison_original.png) | ![](render_main.png)
+
+See more rendered images in the [preview](preview.md)
 
 ## Environment for ChatGPT
 - GPT-5.5 and Images 2.0

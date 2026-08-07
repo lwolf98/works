@@ -1,10 +1,17 @@
 # Rendered results
 
+| PBR Ceiling | PBR Hallway |
+| :---: | :---: |
+| ![](render_ceil.png) | ![](render_hallway.png)
 
-<img src="render_main.png" width="45%">
-<img src="render_main_2.png" width="45%">
-<img src="render_ceil.png" width="45%">
-<img src="render_hallway.png" width="45%">
+| PBR Main Area 1 | PBR Main Area 2 |
+| :---: | :---: |
+| ![](render_main.png) | ![](render_main_2.png)
 
-<img src="comparison_original.jpeg" width="45%">
-<img src="rtgi_example.png" width="45%">
+The above images are redered with path tracing, high-resolution textures and PBR materials within Blender.
+
+| Original | RTGI without PBR maps |
+| :---: | :---: |
+| ![](comparison_original.png) | ![](rtgi_example.png)
+
+On the left, the original textures and materials are displayed. On the right, the scene was rendered with a custom ray tracing engine using direct illumination, but without full support for PBR material maps.
