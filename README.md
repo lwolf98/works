@@ -6,9 +6,9 @@ This repository includes the following resources:
   [Documentation](23_dokumentation_fblocks.pdf) | [Repository](https://github.com/lwolf98/cc-project)
 - **Bachelor's Thesis:** Parts of the presentation from Maximilian Giesa's and my Bachelor theses about the Photon Mapping and the Manylight Ray Tracing Algorithms (2023)
 
-  Contact me if you would like to have a look into the thesis or the source code.
+  Contact me if you would like to have a look into the thesis.
 
-  [Presentation](23_manylight_photon_mapping_part.pdf) | [Render Demonstration](https://www.youtube.com/watch?v=ZYKB1ATWkEk)
+  [Presentation](23_manylight_photon_mapping_part.pdf) | [Repository](https://github.com/lwolf98/illum-rt/tree/manylight/ba/strided) ([Contribution](https://github.com/lwolf98/illum-rt/pull/2)) | [Render Demonstration](https://www.youtube.com/watch?v=ZYKB1ATWkEk)
 - **Research Subdivision Surfaces (Overview):** Short paper about subdivision surfaces from Scientific Seminar course (2024)
   
   [Paper](24_paper_subdivision_surfaces.pdf)
